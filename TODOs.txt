@@ -1,0 +1,3 @@
+# TODOs
+1. Design / think about result aggregation method
+2. Add LDA
